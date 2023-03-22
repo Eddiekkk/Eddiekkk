@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Sem área de atuação especifica no momento, sou estudante de ADS
+- 📚 Sou estudante de ADS
 - 🌱 Estou estudando Javascript, HTML e CSS
 - 📧 Contata-me pelo email: Eddiemeire@gmail.com
 - 👀 Pronouns: Ela/dela
