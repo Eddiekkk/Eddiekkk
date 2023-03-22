@@ -4,7 +4,7 @@
 
 - 📚 Sou estudante de ADS
 - 🌱 Estou estudando Javascript, HTML e CSS
-- 📧 Contata-me pelo email: Eddiemeire@gmail.com
+- 📧 Contata-me pelo email: Contatoeddiemeire@gmail.com
 - 👀 Pronouns: Ela/dela
 
 ##
