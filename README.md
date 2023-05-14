@@ -5,7 +5,6 @@
 - 📚 Sou estudante de ADS
 - 🌱 Estou estudando Javascript, HTML e CSS
 - 📧 Contata-me pelo email: Contatoeddiemeire@gmail.com
-- 👀 Pronouns: Ela/dela
 
 ##
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=nightowl&preferLogin=false">    <img  alt="Eddiekkk's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Eddiekkk?cardType=github&theme=nightowl&preferLogin=false" />  </a> 
